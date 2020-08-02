@@ -1,0 +1,257 @@
+Dependencies for Project 'spms_vcmm', Target 'spms_vcmm': (DO NOT MODIFY !)
+F (..\sourcecode\CMSIS\CM0\DeviceSupport\src\system_ht6xxx.c)(0x5C121E55)(--c99 -c --cpu Cortex-M0 -D__MICROLIB --li -g -O0 --apcs=interwork --split_sections -I ..\sourcecode\CMSIS -I ..\sourcecode\CMSIS\CM0\DeviceSupport\inc -I ..\sourcecode\CMSIS\CM0\CoreSupport -I ..\sourcecode\CMSIS\CM0\DeviceSupport -I ..\sourcecode\HT60xx_StdPeriph_Driver\inc -I ..\sourcecode -I ..\sourcecode\HT60xx_StdPeriph_Driver-IH:\SmartPowerManagerSystem\spms_vcmm\project\RTE-IC:\Keil_v521a\ARM\PACK\ARM\CMSIS\5.7.0\Device\ARM\ARMCM0\Include-IC:\Keil_v521a\ARM\CMSIS\Include-D__UVISION_VERSION="521" -DARMCM0 -DHT6x2x-o .\objects\system_ht6xxx.o --omf_browse .\objects\system_ht6xxx.crf --depend .\objects\system_ht6xxx.d)
+I (..\sourcecode\CMSIS\CM0\DeviceSupport\inc\ht6xxx.h)(0x5C32C862)
+I (..\sourcecode\CMSIS\CM0\CoreSupport\core_cm0.h)(0x5C12225D)
+I (C:\Keil_v521a\ARM\ARMCC\include\stdint.h)(0x574E3E26)
+I (..\sourcecode\CMSIS\CM0\CoreSupport\cmsis_version.h)(0x5C122268)
+I (..\sourcecode\CMSIS\CM0\CoreSupport\cmsis_compiler.h)(0x5C1222DF)
+I (..\sourcecode\CMSIS\CM0\CoreSupport\cmsis_armcc.h)(0x5C122255)
+I (..\sourcecode\CMSIS\CM0\DeviceSupport\inc\system_ht6xxx.h)(0x5C121E47)
+I (..\sourcecode\HT60xx_StdPeriph_Driver\ht6xxx_lib.h)(0x5C123175)
+I (..\sourcecode\HT60xx_StdPeriph_Driver\inc\ht6xxx_cmu.h)(0x5C121DE7)
+I (..\sourcecode\HT60xx_StdPeriph_Driver\inc\ht6xxx_crc.h)(0x5C121DE1)
+I (..\sourcecode\HT60xx_StdPeriph_Driver\inc\ht6xxx_exti.h)(0x5C121DCF)
+I (..\sourcecode\HT60xx_StdPeriph_Driver\inc\ht6xxx_flash.h)(0x5C121DC9)
+I (..\sourcecode\HT60xx_StdPeriph_Driver\inc\ht6xxx_gpio.h)(0x5C122E4D)
+I (..\sourcecode\HT60xx_StdPeriph_Driver\inc\ht6xxx_iic.h)(0x5C121DBE)
+I (..\sourcecode\HT60xx_StdPeriph_Driver\inc\ht6xxx_lcd.h)(0x5C121DB7)
+I (..\sourcecode\HT60xx_StdPeriph_Driver\inc\ht6xxx_pmu.h)(0x5C121DB0)
+I (..\sourcecode\HT60xx_StdPeriph_Driver\inc\ht6xxx_reset.h)(0x5C121DA8)
+I (..\sourcecode\HT60xx_StdPeriph_Driver\inc\ht6xxx_rtc.h)(0x5C121DA1)
+I (..\sourcecode\HT60xx_StdPeriph_Driver\inc\ht6xxx_spi.h)(0x5C121D9B)
+I (..\sourcecode\HT60xx_StdPeriph_Driver\inc\ht6xxx_tbs.h)(0x5C121D94)
+I (..\sourcecode\HT60xx_StdPeriph_Driver\inc\ht6xxx_timer.h)(0x5C121D87)
+I (..\sourcecode\HT60xx_StdPeriph_Driver\inc\ht6xxx_uart&7816.h)(0x5C121D81)
+I (..\sourcecode\HT60xx_StdPeriph_Driver\inc\ht6xxx_tdes&rand.h)(0x5C121D8D)
+I (..\sourcecode\HT60xx_StdPeriph_Driver\inc\ht6xxx_aes&rand.h)(0x5C121DED)
+I (..\sourcecode\HT60xx_StdPeriph_Driver\inc\ht6xxx_dma.h)(0x5C121DDC)
+I (..\sourcecode\HT60xx_StdPeriph_Driver\inc\ht50xx_emu.h)(0x5C121D7B)
+I (..\sourcecode\HT60xx_StdPeriph_Driver\inc\ht501x_keyscan.h)(0x5C121D6D)
+I (..\sourcecode\HT60xx_StdPeriph_Driver\inc\ht6x3x_emu.h)(0x5C121D74)
+F (..\sourcecode\HT60xx_StdPeriph_Driver\src\ht6x3x_emu.c)(0x5C122051)(--c99 -c --cpu Cortex-M0 -D__MICROLIB --li -g -O0 --apcs=interwork --split_sections -I ..\sourcecode\CMSIS -I ..\sourcecode\CMSIS\CM0 -I ..\sourcecode\CMSIS\CM0\CoreSupport -I ..\sourcecode\CMSIS\CM0\DeviceSupport -I ..\sourcecode\HT60xx_StdPeriph_Driver\inc -I ..\sourcecode -I ..\sourcecode\HT60xx_StdPeriph_Driver-IH:\SmartPowerManagerSystem\spms_vcmm\project\RTE-IC:\Keil_v521a\ARM\PACK\ARM\CMSIS\5.7.0\Device\ARM\ARMCM0\Include-IC:\Keil_v521a\ARM\CMSIS\Include-D__UVISION_VERSION="521" -DARMCM0 -DHT6x2x-o .\objects\ht6x3x_emu.o --omf_browse .\objects\ht6x3x_emu.crf --depend .\objects\ht6x3x_emu.d)
+I (..\sourcecode\HT60xx_StdPeriph_Driver\inc\ht6x3x_emu.h)(0x5C121D74)
+I (..\sourcecode\CMSIS\CM0\DeviceSupport\ht6xxx.h)(0x5899D06C)
+I (..\sourcecode\CMSIS\CM0\CoreSupport\core_cm0.h)(0x5212CB2E)
+I (C:\Keil_v521a\ARM\ARMCC\include\stdint.h)(0x574E3E26)
+I (..\sourcecode\CMSIS\CM0\CoreSupport\core_cmInstr.h)(0x5212CB2E)
+I (..\sourcecode\CMSIS\CM0\CoreSupport\core_cmFunc.h)(0x5212CB2E)
+F (..\sourcecode\HT60xx_StdPeriph_Driver\src\ht6xxx_aes&rand.c)(0x5A5D6BC2)(--c99 -c --cpu Cortex-M0 -D__MICROLIB --li -g -O0 --apcs=interwork --split_sections -I ..\sourcecode\CMSIS -I ..\sourcecode\CMSIS\CM0\DeviceSupport\inc -I ..\sourcecode\CMSIS\CM0\CoreSupport -I ..\sourcecode\CMSIS\CM0\DeviceSupport -I ..\sourcecode\HT60xx_StdPeriph_Driver\inc -I ..\sourcecode -I ..\sourcecode\HT60xx_StdPeriph_Driver-IH:\SmartPowerManagerSystem\spms_vcmm\project\RTE-IC:\Keil_v521a\ARM\PACK\ARM\CMSIS\5.7.0\Device\ARM\ARMCM0\Include-IC:\Keil_v521a\ARM\CMSIS\Include-D__UVISION_VERSION="521" -DARMCM0 -DHT6x2x-o .\objects\ht6xxx_aes&rand.o --omf_browse .\objects\ht6xxx_aes&rand.crf --depend .\objects\ht6xxx_aes&rand.d)
+I (..\sourcecode\HT60xx_StdPeriph_Driver\inc\ht6xxx_aes&rand.h)(0x5C121DED)
+I (..\sourcecode\CMSIS\CM0\DeviceSupport\inc\ht6xxx.h)(0x5C32C862)
+I (..\sourcecode\CMSIS\CM0\CoreSupport\core_cm0.h)(0x5C12225D)
+I (C:\Keil_v521a\ARM\ARMCC\include\stdint.h)(0x574E3E26)
+I (..\sourcecode\CMSIS\CM0\CoreSupport\cmsis_version.h)(0x5C122268)
+I (..\sourcecode\CMSIS\CM0\CoreSupport\cmsis_compiler.h)(0x5C1222DF)
+I (..\sourcecode\CMSIS\CM0\CoreSupport\cmsis_armcc.h)(0x5C122255)
+F (..\sourcecode\HT60xx_StdPeriph_Driver\src\ht6xxx_cmu.c)(0x5BE1472D)(--c99 -c --cpu Cortex-M0 -D__MICROLIB --li -g -O0 --apcs=interwork --split_sections -I ..\sourcecode\CMSIS -I ..\sourcecode\CMSIS\CM0\DeviceSupport\inc -I ..\sourcecode\CMSIS\CM0\CoreSupport -I ..\sourcecode\CMSIS\CM0\DeviceSupport -I ..\sourcecode\HT60xx_StdPeriph_Driver\inc -I ..\sourcecode -I ..\sourcecode\HT60xx_StdPeriph_Driver-IH:\SmartPowerManagerSystem\spms_vcmm\project\RTE-IC:\Keil_v521a\ARM\PACK\ARM\CMSIS\5.7.0\Device\ARM\ARMCM0\Include-IC:\Keil_v521a\ARM\CMSIS\Include-D__UVISION_VERSION="521" -DARMCM0 -DHT6x2x-o .\objects\ht6xxx_cmu.o --omf_browse .\objects\ht6xxx_cmu.crf --depend .\objects\ht6xxx_cmu.d)
+I (..\sourcecode\HT60xx_StdPeriph_Driver\inc\ht6xxx_cmu.h)(0x5C121DE7)
+I (..\sourcecode\CMSIS\CM0\DeviceSupport\inc\ht6xxx.h)(0x5C32C862)
+I (..\sourcecode\CMSIS\CM0\CoreSupport\core_cm0.h)(0x5C12225D)
+I (C:\Keil_v521a\ARM\ARMCC\include\stdint.h)(0x574E3E26)
+I (..\sourcecode\CMSIS\CM0\CoreSupport\cmsis_version.h)(0x5C122268)
+I (..\sourcecode\CMSIS\CM0\CoreSupport\cmsis_compiler.h)(0x5C1222DF)
+I (..\sourcecode\CMSIS\CM0\CoreSupport\cmsis_armcc.h)(0x5C122255)
+F (..\sourcecode\HT60xx_StdPeriph_Driver\src\ht6xxx_crc.c)(0x5A321BA7)(--c99 -c --cpu Cortex-M0 -D__MICROLIB --li -g -O0 --apcs=interwork --split_sections -I ..\sourcecode\CMSIS -I ..\sourcecode\CMSIS\CM0\DeviceSupport\inc -I ..\sourcecode\CMSIS\CM0\CoreSupport -I ..\sourcecode\CMSIS\CM0\DeviceSupport -I ..\sourcecode\HT60xx_StdPeriph_Driver\inc -I ..\sourcecode -I ..\sourcecode\HT60xx_StdPeriph_Driver-IH:\SmartPowerManagerSystem\spms_vcmm\project\RTE-IC:\Keil_v521a\ARM\PACK\ARM\CMSIS\5.7.0\Device\ARM\ARMCM0\Include-IC:\Keil_v521a\ARM\CMSIS\Include-D__UVISION_VERSION="521" -DARMCM0 -DHT6x2x-o .\objects\ht6xxx_crc.o --omf_browse .\objects\ht6xxx_crc.crf --depend .\objects\ht6xxx_crc.d)
+I (..\sourcecode\HT60xx_StdPeriph_Driver\inc\ht6xxx_crc.h)(0x5C121DE1)
+I (..\sourcecode\CMSIS\CM0\DeviceSupport\inc\ht6xxx.h)(0x5C32C862)
+I (..\sourcecode\CMSIS\CM0\CoreSupport\core_cm0.h)(0x5C12225D)
+I (C:\Keil_v521a\ARM\ARMCC\include\stdint.h)(0x574E3E26)
+I (..\sourcecode\CMSIS\CM0\CoreSupport\cmsis_version.h)(0x5C122268)
+I (..\sourcecode\CMSIS\CM0\CoreSupport\cmsis_compiler.h)(0x5C1222DF)
+I (..\sourcecode\CMSIS\CM0\CoreSupport\cmsis_armcc.h)(0x5C122255)
+F (..\sourcecode\HT60xx_StdPeriph_Driver\src\ht6xxx_dma.c)(0x5A002F6C)(--c99 -c --cpu Cortex-M0 -D__MICROLIB --li -g -O0 --apcs=interwork --split_sections -I ..\sourcecode\CMSIS -I ..\sourcecode\CMSIS\CM0\DeviceSupport\inc -I ..\sourcecode\CMSIS\CM0\CoreSupport -I ..\sourcecode\CMSIS\CM0\DeviceSupport -I ..\sourcecode\HT60xx_StdPeriph_Driver\inc -I ..\sourcecode -I ..\sourcecode\HT60xx_StdPeriph_Driver-IH:\SmartPowerManagerSystem\spms_vcmm\project\RTE-IC:\Keil_v521a\ARM\PACK\ARM\CMSIS\5.7.0\Device\ARM\ARMCM0\Include-IC:\Keil_v521a\ARM\CMSIS\Include-D__UVISION_VERSION="521" -DARMCM0 -DHT6x2x-o .\objects\ht6xxx_dma.o --omf_browse .\objects\ht6xxx_dma.crf --depend .\objects\ht6xxx_dma.d)
+I (..\sourcecode\HT60xx_StdPeriph_Driver\inc\ht6xxx_dma.h)(0x5C121DDC)
+I (..\sourcecode\CMSIS\CM0\DeviceSupport\inc\ht6xxx.h)(0x5C32C862)
+I (..\sourcecode\CMSIS\CM0\CoreSupport\core_cm0.h)(0x5C12225D)
+I (C:\Keil_v521a\ARM\ARMCC\include\stdint.h)(0x574E3E26)
+I (..\sourcecode\CMSIS\CM0\CoreSupport\cmsis_version.h)(0x5C122268)
+I (..\sourcecode\CMSIS\CM0\CoreSupport\cmsis_compiler.h)(0x5C1222DF)
+I (..\sourcecode\CMSIS\CM0\CoreSupport\cmsis_armcc.h)(0x5C122255)
+F (..\sourcecode\HT60xx_StdPeriph_Driver\src\ht6xxx_ecc.c)(0x5A003339)(--c99 -c --cpu Cortex-M0 -D__MICROLIB --li -g -O0 --apcs=interwork --split_sections -I ..\sourcecode\CMSIS -I ..\sourcecode\CMSIS\CM0 -I ..\sourcecode\CMSIS\CM0\CoreSupport -I ..\sourcecode\CMSIS\CM0\DeviceSupport -I ..\sourcecode\HT60xx_StdPeriph_Driver\inc -I ..\sourcecode -I ..\sourcecode\HT60xx_StdPeriph_Driver-IH:\SmartPowerManagerSystem\spms_vcmm\project\RTE-IC:\Keil_v521a\ARM\PACK\ARM\CMSIS\5.7.0\Device\ARM\ARMCM0\Include-IC:\Keil_v521a\ARM\CMSIS\Include-D__UVISION_VERSION="521" -DARMCM0 -DHT6x2x-o .\objects\ht6xxx_ecc.o --omf_browse .\objects\ht6xxx_ecc.crf --depend .\objects\ht6xxx_ecc.d)
+I (..\sourcecode\HT60xx_StdPeriph_Driver\inc\ht6xxx_ecc.h)(0x5C121DD6)
+I (..\sourcecode\CMSIS\CM0\DeviceSupport\ht6xxx.h)(0x5899D06C)
+I (..\sourcecode\CMSIS\CM0\CoreSupport\core_cm0.h)(0x5212CB2E)
+I (C:\Keil_v521a\ARM\ARMCC\include\stdint.h)(0x574E3E26)
+I (..\sourcecode\CMSIS\CM0\CoreSupport\core_cmInstr.h)(0x5212CB2E)
+I (..\sourcecode\CMSIS\CM0\CoreSupport\core_cmFunc.h)(0x5212CB2E)
+F (..\sourcecode\HT60xx_StdPeriph_Driver\src\ht6xxx_exti.c)(0x5A04289F)(--c99 -c --cpu Cortex-M0 -D__MICROLIB --li -g -O0 --apcs=interwork --split_sections -I ..\sourcecode\CMSIS -I ..\sourcecode\CMSIS\CM0\DeviceSupport\inc -I ..\sourcecode\CMSIS\CM0\CoreSupport -I ..\sourcecode\CMSIS\CM0\DeviceSupport -I ..\sourcecode\HT60xx_StdPeriph_Driver\inc -I ..\sourcecode -I ..\sourcecode\HT60xx_StdPeriph_Driver-IH:\SmartPowerManagerSystem\spms_vcmm\project\RTE-IC:\Keil_v521a\ARM\PACK\ARM\CMSIS\5.7.0\Device\ARM\ARMCM0\Include-IC:\Keil_v521a\ARM\CMSIS\Include-D__UVISION_VERSION="521" -DARMCM0 -DHT6x2x-o .\objects\ht6xxx_exti.o --omf_browse .\objects\ht6xxx_exti.crf --depend .\objects\ht6xxx_exti.d)
+I (..\sourcecode\HT60xx_StdPeriph_Driver\inc\ht6xxx_exti.h)(0x5C121DCF)
+I (..\sourcecode\CMSIS\CM0\DeviceSupport\inc\ht6xxx.h)(0x5C32C862)
+I (..\sourcecode\CMSIS\CM0\CoreSupport\core_cm0.h)(0x5C12225D)
+I (C:\Keil_v521a\ARM\ARMCC\include\stdint.h)(0x574E3E26)
+I (..\sourcecode\CMSIS\CM0\CoreSupport\cmsis_version.h)(0x5C122268)
+I (..\sourcecode\CMSIS\CM0\CoreSupport\cmsis_compiler.h)(0x5C1222DF)
+I (..\sourcecode\CMSIS\CM0\CoreSupport\cmsis_armcc.h)(0x5C122255)
+F (..\sourcecode\HT60xx_StdPeriph_Driver\src\ht6xxx_flash.c)(0x5A5D7271)(--c99 -c --cpu Cortex-M0 -D__MICROLIB --li -g -O0 --apcs=interwork --split_sections -I ..\sourcecode\CMSIS -I ..\sourcecode\CMSIS\CM0\DeviceSupport\inc -I ..\sourcecode\CMSIS\CM0\CoreSupport -I ..\sourcecode\CMSIS\CM0\DeviceSupport -I ..\sourcecode\HT60xx_StdPeriph_Driver\inc -I ..\sourcecode -I ..\sourcecode\HT60xx_StdPeriph_Driver-IH:\SmartPowerManagerSystem\spms_vcmm\project\RTE-IC:\Keil_v521a\ARM\PACK\ARM\CMSIS\5.7.0\Device\ARM\ARMCM0\Include-IC:\Keil_v521a\ARM\CMSIS\Include-D__UVISION_VERSION="521" -DARMCM0 -DHT6x2x-o .\objects\ht6xxx_flash.o --omf_browse .\objects\ht6xxx_flash.crf --depend .\objects\ht6xxx_flash.d)
+I (..\sourcecode\HT60xx_StdPeriph_Driver\inc\ht6xxx_flash.h)(0x5C121DC9)
+I (..\sourcecode\CMSIS\CM0\DeviceSupport\inc\ht6xxx.h)(0x5C32C862)
+I (..\sourcecode\CMSIS\CM0\CoreSupport\core_cm0.h)(0x5C12225D)
+I (C:\Keil_v521a\ARM\ARMCC\include\stdint.h)(0x574E3E26)
+I (..\sourcecode\CMSIS\CM0\CoreSupport\cmsis_version.h)(0x5C122268)
+I (..\sourcecode\CMSIS\CM0\CoreSupport\cmsis_compiler.h)(0x5C1222DF)
+I (..\sourcecode\CMSIS\CM0\CoreSupport\cmsis_armcc.h)(0x5C122255)
+F (..\sourcecode\HT60xx_StdPeriph_Driver\src\ht6xxx_gpio.c)(0x5A7980D9)(--c99 -c --cpu Cortex-M0 -D__MICROLIB --li -g -O0 --apcs=interwork --split_sections -I ..\sourcecode\CMSIS -I ..\sourcecode\CMSIS\CM0\DeviceSupport\inc -I ..\sourcecode\CMSIS\CM0\CoreSupport -I ..\sourcecode\CMSIS\CM0\DeviceSupport -I ..\sourcecode\HT60xx_StdPeriph_Driver\inc -I ..\sourcecode -I ..\sourcecode\HT60xx_StdPeriph_Driver-IH:\SmartPowerManagerSystem\spms_vcmm\project\RTE-IC:\Keil_v521a\ARM\PACK\ARM\CMSIS\5.7.0\Device\ARM\ARMCM0\Include-IC:\Keil_v521a\ARM\CMSIS\Include-D__UVISION_VERSION="521" -DARMCM0 -DHT6x2x-o .\objects\ht6xxx_gpio.o --omf_browse .\objects\ht6xxx_gpio.crf --depend .\objects\ht6xxx_gpio.d)
+I (..\sourcecode\HT60xx_StdPeriph_Driver\inc\ht6xxx_gpio.h)(0x5C122E4D)
+I (..\sourcecode\CMSIS\CM0\DeviceSupport\inc\ht6xxx.h)(0x5C32C862)
+I (..\sourcecode\CMSIS\CM0\CoreSupport\core_cm0.h)(0x5C12225D)
+I (C:\Keil_v521a\ARM\ARMCC\include\stdint.h)(0x574E3E26)
+I (..\sourcecode\CMSIS\CM0\CoreSupport\cmsis_version.h)(0x5C122268)
+I (..\sourcecode\CMSIS\CM0\CoreSupport\cmsis_compiler.h)(0x5C1222DF)
+I (..\sourcecode\CMSIS\CM0\CoreSupport\cmsis_armcc.h)(0x5C122255)
+F (..\sourcecode\HT60xx_StdPeriph_Driver\src\ht6xxx_iic.c)(0x5A003830)(--c99 -c --cpu Cortex-M0 -D__MICROLIB --li -g -O0 --apcs=interwork --split_sections -I ..\sourcecode\CMSIS -I ..\sourcecode\CMSIS\CM0\DeviceSupport\inc -I ..\sourcecode\CMSIS\CM0\CoreSupport -I ..\sourcecode\CMSIS\CM0\DeviceSupport -I ..\sourcecode\HT60xx_StdPeriph_Driver\inc -I ..\sourcecode -I ..\sourcecode\HT60xx_StdPeriph_Driver-IH:\SmartPowerManagerSystem\spms_vcmm\project\RTE-IC:\Keil_v521a\ARM\PACK\ARM\CMSIS\5.7.0\Device\ARM\ARMCM0\Include-IC:\Keil_v521a\ARM\CMSIS\Include-D__UVISION_VERSION="521" -DARMCM0 -DHT6x2x-o .\objects\ht6xxx_iic.o --omf_browse .\objects\ht6xxx_iic.crf --depend .\objects\ht6xxx_iic.d)
+I (..\sourcecode\HT60xx_StdPeriph_Driver\inc\ht6xxx_iic.h)(0x5C121DBE)
+I (..\sourcecode\CMSIS\CM0\DeviceSupport\inc\ht6xxx.h)(0x5C32C862)
+I (..\sourcecode\CMSIS\CM0\CoreSupport\core_cm0.h)(0x5C12225D)
+I (C:\Keil_v521a\ARM\ARMCC\include\stdint.h)(0x574E3E26)
+I (..\sourcecode\CMSIS\CM0\CoreSupport\cmsis_version.h)(0x5C122268)
+I (..\sourcecode\CMSIS\CM0\CoreSupport\cmsis_compiler.h)(0x5C1222DF)
+I (..\sourcecode\CMSIS\CM0\CoreSupport\cmsis_armcc.h)(0x5C122255)
+F (..\sourcecode\HT60xx_StdPeriph_Driver\src\ht6xxx_lcd.c)(0x5B7E9456)(--c99 -c --cpu Cortex-M0 -D__MICROLIB --li -g -O0 --apcs=interwork --split_sections -I ..\sourcecode\CMSIS -I ..\sourcecode\CMSIS\CM0\DeviceSupport\inc -I ..\sourcecode\CMSIS\CM0\CoreSupport -I ..\sourcecode\CMSIS\CM0\DeviceSupport -I ..\sourcecode\HT60xx_StdPeriph_Driver\inc -I ..\sourcecode -I ..\sourcecode\HT60xx_StdPeriph_Driver-IH:\SmartPowerManagerSystem\spms_vcmm\project\RTE-IC:\Keil_v521a\ARM\PACK\ARM\CMSIS\5.7.0\Device\ARM\ARMCM0\Include-IC:\Keil_v521a\ARM\CMSIS\Include-D__UVISION_VERSION="521" -DARMCM0 -DHT6x2x-o .\objects\ht6xxx_lcd.o --omf_browse .\objects\ht6xxx_lcd.crf --depend .\objects\ht6xxx_lcd.d)
+I (..\sourcecode\HT60xx_StdPeriph_Driver\inc\ht6xxx_lcd.h)(0x5C121DB7)
+I (..\sourcecode\CMSIS\CM0\DeviceSupport\inc\ht6xxx.h)(0x5C32C862)
+I (..\sourcecode\CMSIS\CM0\CoreSupport\core_cm0.h)(0x5C12225D)
+I (C:\Keil_v521a\ARM\ARMCC\include\stdint.h)(0x574E3E26)
+I (..\sourcecode\CMSIS\CM0\CoreSupport\cmsis_version.h)(0x5C122268)
+I (..\sourcecode\CMSIS\CM0\CoreSupport\cmsis_compiler.h)(0x5C1222DF)
+I (..\sourcecode\CMSIS\CM0\CoreSupport\cmsis_armcc.h)(0x5C122255)
+F (..\sourcecode\HT60xx_StdPeriph_Driver\src\ht6xxx_pmu.c)(0x5A5D6CB2)(--c99 -c --cpu Cortex-M0 -D__MICROLIB --li -g -O0 --apcs=interwork --split_sections -I ..\sourcecode\CMSIS -I ..\sourcecode\CMSIS\CM0\DeviceSupport\inc -I ..\sourcecode\CMSIS\CM0\CoreSupport -I ..\sourcecode\CMSIS\CM0\DeviceSupport -I ..\sourcecode\HT60xx_StdPeriph_Driver\inc -I ..\sourcecode -I ..\sourcecode\HT60xx_StdPeriph_Driver-IH:\SmartPowerManagerSystem\spms_vcmm\project\RTE-IC:\Keil_v521a\ARM\PACK\ARM\CMSIS\5.7.0\Device\ARM\ARMCM0\Include-IC:\Keil_v521a\ARM\CMSIS\Include-D__UVISION_VERSION="521" -DARMCM0 -DHT6x2x-o .\objects\ht6xxx_pmu.o --omf_browse .\objects\ht6xxx_pmu.crf --depend .\objects\ht6xxx_pmu.d)
+I (..\sourcecode\HT60xx_StdPeriph_Driver\inc\ht6xxx_pmu.h)(0x5C121DB0)
+I (..\sourcecode\CMSIS\CM0\DeviceSupport\inc\ht6xxx.h)(0x5C32C862)
+I (..\sourcecode\CMSIS\CM0\CoreSupport\core_cm0.h)(0x5C12225D)
+I (C:\Keil_v521a\ARM\ARMCC\include\stdint.h)(0x574E3E26)
+I (..\sourcecode\CMSIS\CM0\CoreSupport\cmsis_version.h)(0x5C122268)
+I (..\sourcecode\CMSIS\CM0\CoreSupport\cmsis_compiler.h)(0x5C1222DF)
+I (..\sourcecode\CMSIS\CM0\CoreSupport\cmsis_armcc.h)(0x5C122255)
+F (..\sourcecode\HT60xx_StdPeriph_Driver\src\ht6xxx_reset.c)(0x5A0038F7)(--c99 -c --cpu Cortex-M0 -D__MICROLIB --li -g -O0 --apcs=interwork --split_sections -I ..\sourcecode\CMSIS -I ..\sourcecode\CMSIS\CM0\DeviceSupport\inc -I ..\sourcecode\CMSIS\CM0\CoreSupport -I ..\sourcecode\CMSIS\CM0\DeviceSupport -I ..\sourcecode\HT60xx_StdPeriph_Driver\inc -I ..\sourcecode -I ..\sourcecode\HT60xx_StdPeriph_Driver-IH:\SmartPowerManagerSystem\spms_vcmm\project\RTE-IC:\Keil_v521a\ARM\PACK\ARM\CMSIS\5.7.0\Device\ARM\ARMCM0\Include-IC:\Keil_v521a\ARM\CMSIS\Include-D__UVISION_VERSION="521" -DARMCM0 -DHT6x2x-o .\objects\ht6xxx_reset.o --omf_browse .\objects\ht6xxx_reset.crf --depend .\objects\ht6xxx_reset.d)
+I (..\sourcecode\HT60xx_StdPeriph_Driver\inc\ht6xxx_reset.h)(0x5C121DA8)
+I (..\sourcecode\CMSIS\CM0\DeviceSupport\inc\ht6xxx.h)(0x5C32C862)
+I (..\sourcecode\CMSIS\CM0\CoreSupport\core_cm0.h)(0x5C12225D)
+I (C:\Keil_v521a\ARM\ARMCC\include\stdint.h)(0x574E3E26)
+I (..\sourcecode\CMSIS\CM0\CoreSupport\cmsis_version.h)(0x5C122268)
+I (..\sourcecode\CMSIS\CM0\CoreSupport\cmsis_compiler.h)(0x5C1222DF)
+I (..\sourcecode\CMSIS\CM0\CoreSupport\cmsis_armcc.h)(0x5C122255)
+I (..\sourcecode\HT60xx_StdPeriph_Driver\inc\ht6xxx_cmu.h)(0x5C121DE7)
+F (..\sourcecode\HT60xx_StdPeriph_Driver\src\ht6xxx_rtc.c)(0x5A5845D7)(--c99 -c --cpu Cortex-M0 -D__MICROLIB --li -g -O0 --apcs=interwork --split_sections -I ..\sourcecode\CMSIS -I ..\sourcecode\CMSIS\CM0\DeviceSupport\inc -I ..\sourcecode\CMSIS\CM0\CoreSupport -I ..\sourcecode\CMSIS\CM0\DeviceSupport -I ..\sourcecode\HT60xx_StdPeriph_Driver\inc -I ..\sourcecode -I ..\sourcecode\HT60xx_StdPeriph_Driver-IH:\SmartPowerManagerSystem\spms_vcmm\project\RTE-IC:\Keil_v521a\ARM\PACK\ARM\CMSIS\5.7.0\Device\ARM\ARMCM0\Include-IC:\Keil_v521a\ARM\CMSIS\Include-D__UVISION_VERSION="521" -DARMCM0 -DHT6x2x-o .\objects\ht6xxx_rtc.o --omf_browse .\objects\ht6xxx_rtc.crf --depend .\objects\ht6xxx_rtc.d)
+I (..\sourcecode\HT60xx_StdPeriph_Driver\inc\ht6xxx_rtc.h)(0x5C121DA1)
+I (..\sourcecode\CMSIS\CM0\DeviceSupport\inc\ht6xxx.h)(0x5C32C862)
+I (..\sourcecode\CMSIS\CM0\CoreSupport\core_cm0.h)(0x5C12225D)
+I (C:\Keil_v521a\ARM\ARMCC\include\stdint.h)(0x574E3E26)
+I (..\sourcecode\CMSIS\CM0\CoreSupport\cmsis_version.h)(0x5C122268)
+I (..\sourcecode\CMSIS\CM0\CoreSupport\cmsis_compiler.h)(0x5C1222DF)
+I (..\sourcecode\CMSIS\CM0\CoreSupport\cmsis_armcc.h)(0x5C122255)
+F (..\sourcecode\HT60xx_StdPeriph_Driver\src\ht6xxx_spi.c)(0x5C1228E7)(--c99 -c --cpu Cortex-M0 -D__MICROLIB --li -g -O0 --apcs=interwork --split_sections -I ..\sourcecode\CMSIS -I ..\sourcecode\CMSIS\CM0\DeviceSupport\inc -I ..\sourcecode\CMSIS\CM0\CoreSupport -I ..\sourcecode\CMSIS\CM0\DeviceSupport -I ..\sourcecode\HT60xx_StdPeriph_Driver\inc -I ..\sourcecode -I ..\sourcecode\HT60xx_StdPeriph_Driver-IH:\SmartPowerManagerSystem\spms_vcmm\project\RTE-IC:\Keil_v521a\ARM\PACK\ARM\CMSIS\5.7.0\Device\ARM\ARMCM0\Include-IC:\Keil_v521a\ARM\CMSIS\Include-D__UVISION_VERSION="521" -DARMCM0 -DHT6x2x-o .\objects\ht6xxx_spi.o --omf_browse .\objects\ht6xxx_spi.crf --depend .\objects\ht6xxx_spi.d)
+I (..\sourcecode\HT60xx_StdPeriph_Driver\inc\ht6xxx_spi.h)(0x5C121D9B)
+I (..\sourcecode\CMSIS\CM0\DeviceSupport\inc\ht6xxx.h)(0x5C32C862)
+I (..\sourcecode\CMSIS\CM0\CoreSupport\core_cm0.h)(0x5C12225D)
+I (C:\Keil_v521a\ARM\ARMCC\include\stdint.h)(0x574E3E26)
+I (..\sourcecode\CMSIS\CM0\CoreSupport\cmsis_version.h)(0x5C122268)
+I (..\sourcecode\CMSIS\CM0\CoreSupport\cmsis_compiler.h)(0x5C1222DF)
+I (..\sourcecode\CMSIS\CM0\CoreSupport\cmsis_armcc.h)(0x5C122255)
+F (..\sourcecode\HT60xx_StdPeriph_Driver\src\ht6xxx_tbs.c)(0x5A9E7AAF)(--c99 -c --cpu Cortex-M0 -D__MICROLIB --li -g -O0 --apcs=interwork --split_sections -I ..\sourcecode\CMSIS -I ..\sourcecode\CMSIS\CM0\DeviceSupport\inc -I ..\sourcecode\CMSIS\CM0\CoreSupport -I ..\sourcecode\CMSIS\CM0\DeviceSupport -I ..\sourcecode\HT60xx_StdPeriph_Driver\inc -I ..\sourcecode -I ..\sourcecode\HT60xx_StdPeriph_Driver-IH:\SmartPowerManagerSystem\spms_vcmm\project\RTE-IC:\Keil_v521a\ARM\PACK\ARM\CMSIS\5.7.0\Device\ARM\ARMCM0\Include-IC:\Keil_v521a\ARM\CMSIS\Include-D__UVISION_VERSION="521" -DARMCM0 -DHT6x2x-o .\objects\ht6xxx_tbs.o --omf_browse .\objects\ht6xxx_tbs.crf --depend .\objects\ht6xxx_tbs.d)
+I (..\sourcecode\HT60xx_StdPeriph_Driver\inc\ht6xxx_tbs.h)(0x5C121D94)
+I (..\sourcecode\CMSIS\CM0\DeviceSupport\inc\ht6xxx.h)(0x5C32C862)
+I (..\sourcecode\CMSIS\CM0\CoreSupport\core_cm0.h)(0x5C12225D)
+I (C:\Keil_v521a\ARM\ARMCC\include\stdint.h)(0x574E3E26)
+I (..\sourcecode\CMSIS\CM0\CoreSupport\cmsis_version.h)(0x5C122268)
+I (..\sourcecode\CMSIS\CM0\CoreSupport\cmsis_compiler.h)(0x5C1222DF)
+I (..\sourcecode\CMSIS\CM0\CoreSupport\cmsis_armcc.h)(0x5C122255)
+F (..\sourcecode\HT60xx_StdPeriph_Driver\src\ht6xxx_tdes&rand.c)(0x5A5737E7)(--c99 -c --cpu Cortex-M0 -D__MICROLIB --li -g -O0 --apcs=interwork --split_sections -I ..\sourcecode\CMSIS -I ..\sourcecode\CMSIS\CM0 -I ..\sourcecode\CMSIS\CM0\CoreSupport -I ..\sourcecode\CMSIS\CM0\DeviceSupport -I ..\sourcecode\HT60xx_StdPeriph_Driver\inc -I ..\sourcecode -I ..\sourcecode\HT60xx_StdPeriph_Driver-IH:\SmartPowerManagerSystem\spms_vcmm\project\RTE-IC:\Keil_v521a\ARM\PACK\ARM\CMSIS\5.7.0\Device\ARM\ARMCM0\Include-IC:\Keil_v521a\ARM\CMSIS\Include-D__UVISION_VERSION="521" -DARMCM0 -DHT6x2x-o .\objects\ht6xxx_tdes&rand.o --omf_browse .\objects\ht6xxx_tdes&rand.crf --depend .\objects\ht6xxx_tdes&rand.d)
+I (..\sourcecode\HT60xx_StdPeriph_Driver\inc\ht6xxx_tdes&rand.h)(0x5C121D8D)
+I (..\sourcecode\CMSIS\CM0\DeviceSupport\ht6xxx.h)(0x5899D06C)
+I (..\sourcecode\CMSIS\CM0\CoreSupport\core_cm0.h)(0x5212CB2E)
+I (C:\Keil_v521a\ARM\ARMCC\include\stdint.h)(0x574E3E26)
+I (..\sourcecode\CMSIS\CM0\CoreSupport\core_cmInstr.h)(0x5212CB2E)
+I (..\sourcecode\CMSIS\CM0\CoreSupport\core_cmFunc.h)(0x5212CB2E)
+F (..\sourcecode\HT60xx_StdPeriph_Driver\src\ht6xxx_timer.c)(0x5A00429E)(--c99 -c --cpu Cortex-M0 -D__MICROLIB --li -g -O0 --apcs=interwork --split_sections -I ..\sourcecode\CMSIS -I ..\sourcecode\CMSIS\CM0\DeviceSupport\inc -I ..\sourcecode\CMSIS\CM0\CoreSupport -I ..\sourcecode\CMSIS\CM0\DeviceSupport -I ..\sourcecode\HT60xx_StdPeriph_Driver\inc -I ..\sourcecode -I ..\sourcecode\HT60xx_StdPeriph_Driver-IH:\SmartPowerManagerSystem\spms_vcmm\project\RTE-IC:\Keil_v521a\ARM\PACK\ARM\CMSIS\5.7.0\Device\ARM\ARMCM0\Include-IC:\Keil_v521a\ARM\CMSIS\Include-D__UVISION_VERSION="521" -DARMCM0 -DHT6x2x-o .\objects\ht6xxx_timer.o --omf_browse .\objects\ht6xxx_timer.crf --depend .\objects\ht6xxx_timer.d)
+I (..\sourcecode\HT60xx_StdPeriph_Driver\inc\ht6xxx_timer.h)(0x5C121D87)
+I (..\sourcecode\CMSIS\CM0\DeviceSupport\inc\ht6xxx.h)(0x5C32C862)
+I (..\sourcecode\CMSIS\CM0\CoreSupport\core_cm0.h)(0x5C12225D)
+I (C:\Keil_v521a\ARM\ARMCC\include\stdint.h)(0x574E3E26)
+I (..\sourcecode\CMSIS\CM0\CoreSupport\cmsis_version.h)(0x5C122268)
+I (..\sourcecode\CMSIS\CM0\CoreSupport\cmsis_compiler.h)(0x5C1222DF)
+I (..\sourcecode\CMSIS\CM0\CoreSupport\cmsis_armcc.h)(0x5C122255)
+F (..\sourcecode\HT60xx_StdPeriph_Driver\src\ht6xxx_uart&7816.c)(0x5B3443CA)(--c99 -c --cpu Cortex-M0 -D__MICROLIB --li -g -O0 --apcs=interwork --split_sections -I ..\sourcecode\CMSIS -I ..\sourcecode\CMSIS\CM0\DeviceSupport\inc -I ..\sourcecode\CMSIS\CM0\CoreSupport -I ..\sourcecode\CMSIS\CM0\DeviceSupport -I ..\sourcecode\HT60xx_StdPeriph_Driver\inc -I ..\sourcecode -I ..\sourcecode\HT60xx_StdPeriph_Driver-IH:\SmartPowerManagerSystem\spms_vcmm\project\RTE-IC:\Keil_v521a\ARM\PACK\ARM\CMSIS\5.7.0\Device\ARM\ARMCM0\Include-IC:\Keil_v521a\ARM\CMSIS\Include-D__UVISION_VERSION="521" -DARMCM0 -DHT6x2x-o .\objects\ht6xxx_uart&7816.o --omf_browse .\objects\ht6xxx_uart&7816.crf --depend .\objects\ht6xxx_uart&7816.d)
+I (..\sourcecode\HT60xx_StdPeriph_Driver\inc\ht6xxx_uart&7816.h)(0x5C121D81)
+I (..\sourcecode\CMSIS\CM0\DeviceSupport\inc\ht6xxx.h)(0x5C32C862)
+I (..\sourcecode\CMSIS\CM0\CoreSupport\core_cm0.h)(0x5C12225D)
+I (C:\Keil_v521a\ARM\ARMCC\include\stdint.h)(0x574E3E26)
+I (..\sourcecode\CMSIS\CM0\CoreSupport\cmsis_version.h)(0x5C122268)
+I (..\sourcecode\CMSIS\CM0\CoreSupport\cmsis_compiler.h)(0x5C1222DF)
+I (..\sourcecode\CMSIS\CM0\CoreSupport\cmsis_armcc.h)(0x5C122255)
+I (..\sourcecode\HT60xx_StdPeriph_Driver\inc\ht6xxx_cmu.h)(0x5C121DE7)
+F (..\sourcecode\HT60xx_StdPeriph_Driver\src\ht50xx_emu.c)(0x5C120CD6)(--c99 -c --cpu Cortex-M0 -D__MICROLIB --li -g -O0 --apcs=interwork --split_sections -I ..\sourcecode\CMSIS -I ..\sourcecode\CMSIS\CM0 -I ..\sourcecode\CMSIS\CM0\CoreSupport -I ..\sourcecode\CMSIS\CM0\DeviceSupport -I ..\sourcecode\HT60xx_StdPeriph_Driver\inc -I ..\sourcecode -I ..\sourcecode\HT60xx_StdPeriph_Driver-IH:\SmartPowerManagerSystem\spms_vcmm\project\RTE-IC:\Keil_v521a\ARM\PACK\ARM\CMSIS\5.7.0\Device\ARM\ARMCM0\Include-IC:\Keil_v521a\ARM\CMSIS\Include-D__UVISION_VERSION="521" -DARMCM0 -DHT6x2x-o .\objects\ht50xx_emu.o --omf_browse .\objects\ht50xx_emu.crf --depend .\objects\ht50xx_emu.d)
+I (..\sourcecode\HT60xx_StdPeriph_Driver\inc\ht50xx_emu.h)(0x5C121D7B)
+I (..\sourcecode\CMSIS\CM0\DeviceSupport\ht6xxx.h)(0x5899D06C)
+I (..\sourcecode\CMSIS\CM0\CoreSupport\core_cm0.h)(0x5212CB2E)
+I (C:\Keil_v521a\ARM\ARMCC\include\stdint.h)(0x574E3E26)
+I (..\sourcecode\CMSIS\CM0\CoreSupport\core_cmInstr.h)(0x5212CB2E)
+I (..\sourcecode\CMSIS\CM0\CoreSupport\core_cmFunc.h)(0x5212CB2E)
+I (..\sourcecode\Ht6xxx_it.h)(0x5C123192)
+I (C:\Keil_v521a\ARM\ARMCC\include\string.h)(0x574E3E26)
+I (C:\Keil_v521a\ARM\ARMCC\include\math.h)(0x574E3E26)
+F (..\sourcecode\HT60xx_StdPeriph_Driver\src\ht501x_keyscan.c)(0x5A0026AF)(--c99 -c --cpu Cortex-M0 -D__MICROLIB --li -g -O0 --apcs=interwork --split_sections -I ..\sourcecode\CMSIS -I ..\sourcecode\CMSIS\CM0 -I ..\sourcecode\CMSIS\CM0\CoreSupport -I ..\sourcecode\CMSIS\CM0\DeviceSupport -I ..\sourcecode\HT60xx_StdPeriph_Driver\inc -I ..\sourcecode -I ..\sourcecode\HT60xx_StdPeriph_Driver-IH:\SmartPowerManagerSystem\spms_vcmm\project\RTE-IC:\Keil_v521a\ARM\PACK\ARM\CMSIS\5.7.0\Device\ARM\ARMCM0\Include-IC:\Keil_v521a\ARM\CMSIS\Include-D__UVISION_VERSION="521" -DARMCM0 -DHT6x2x-o .\objects\ht501x_keyscan.o --omf_browse .\objects\ht501x_keyscan.crf --depend .\objects\ht501x_keyscan.d)
+I (..\sourcecode\HT60xx_StdPeriph_Driver\inc\ht501x_keyscan.h)(0x5C121D6D)
+I (..\sourcecode\CMSIS\CM0\DeviceSupport\ht6xxx.h)(0x5899D06C)
+I (..\sourcecode\CMSIS\CM0\CoreSupport\core_cm0.h)(0x5212CB2E)
+I (C:\Keil_v521a\ARM\ARMCC\include\stdint.h)(0x574E3E26)
+I (..\sourcecode\CMSIS\CM0\CoreSupport\core_cmInstr.h)(0x5212CB2E)
+I (..\sourcecode\CMSIS\CM0\CoreSupport\core_cmFunc.h)(0x5212CB2E)
+F (..\sourcecode\Startup\Keil\startup_ht6x2x.s)(0x5BFFBE99)(--cpu Cortex-M0 --li -g --apcs=interwork --pd "__MICROLIB SETA 1"-IH:\SmartPowerManagerSystem\spms_vcmm\project\RTE-IC:\Keil_v521a\ARM\PACK\ARM\CMSIS\5.7.0\Device\ARM\ARMCM0\Include-IC:\Keil_v521a\ARM\CMSIS\Include--pd "__UVISION_VERSION SETA 521" --pd "ARMCM0 SETA 1"--list .\listings\startup_ht6x2x.lst --xref -o .\objects\startup_ht6x2x.o --depend .\objects\startup_ht6x2x.d)
+F (..\sourcecode\ht6xxx_it.c)(0x5C1231A1)(--c99 -c --cpu Cortex-M0 -D__MICROLIB --li -g -O0 --apcs=interwork --split_sections -I ..\sourcecode\CMSIS -I ..\sourcecode\CMSIS\CM0\DeviceSupport\inc -I ..\sourcecode\CMSIS\CM0\CoreSupport -I ..\sourcecode\CMSIS\CM0\DeviceSupport -I ..\sourcecode\HT60xx_StdPeriph_Driver\inc -I ..\sourcecode -I ..\sourcecode\HT60xx_StdPeriph_Driver-IH:\SmartPowerManagerSystem\spms_vcmm\project\RTE-IC:\Keil_v521a\ARM\PACK\ARM\CMSIS\5.7.0\Device\ARM\ARMCM0\Include-IC:\Keil_v521a\ARM\CMSIS\Include-D__UVISION_VERSION="521" -DARMCM0 -DHT6x2x-o .\objects\ht6xxx_it.o --omf_browse .\objects\ht6xxx_it.crf --depend .\objects\ht6xxx_it.d)
+I (..\sourcecode\HT60xx_StdPeriph_Driver\ht6xxx_lib.h)(0x5C123175)
+I (..\sourcecode\CMSIS\CM0\DeviceSupport\inc\ht6xxx.h)(0x5C32C862)
+I (..\sourcecode\CMSIS\CM0\CoreSupport\core_cm0.h)(0x5C12225D)
+I (C:\Keil_v521a\ARM\ARMCC\include\stdint.h)(0x574E3E26)
+I (..\sourcecode\CMSIS\CM0\CoreSupport\cmsis_version.h)(0x5C122268)
+I (..\sourcecode\CMSIS\CM0\CoreSupport\cmsis_compiler.h)(0x5C1222DF)
+I (..\sourcecode\CMSIS\CM0\CoreSupport\cmsis_armcc.h)(0x5C122255)
+I (..\sourcecode\HT60xx_StdPeriph_Driver\inc\ht6xxx_cmu.h)(0x5C121DE7)
+I (..\sourcecode\HT60xx_StdPeriph_Driver\inc\ht6xxx_crc.h)(0x5C121DE1)
+I (..\sourcecode\HT60xx_StdPeriph_Driver\inc\ht6xxx_exti.h)(0x5C121DCF)
+I (..\sourcecode\HT60xx_StdPeriph_Driver\inc\ht6xxx_flash.h)(0x5C121DC9)
+I (..\sourcecode\HT60xx_StdPeriph_Driver\inc\ht6xxx_gpio.h)(0x5C122E4D)
+I (..\sourcecode\HT60xx_StdPeriph_Driver\inc\ht6xxx_iic.h)(0x5C121DBE)
+I (..\sourcecode\HT60xx_StdPeriph_Driver\inc\ht6xxx_lcd.h)(0x5C121DB7)
+I (..\sourcecode\HT60xx_StdPeriph_Driver\inc\ht6xxx_pmu.h)(0x5C121DB0)
+I (..\sourcecode\HT60xx_StdPeriph_Driver\inc\ht6xxx_reset.h)(0x5C121DA8)
+I (..\sourcecode\HT60xx_StdPeriph_Driver\inc\ht6xxx_rtc.h)(0x5C121DA1)
+I (..\sourcecode\HT60xx_StdPeriph_Driver\inc\ht6xxx_spi.h)(0x5C121D9B)
+I (..\sourcecode\HT60xx_StdPeriph_Driver\inc\ht6xxx_tbs.h)(0x5C121D94)
+I (..\sourcecode\HT60xx_StdPeriph_Driver\inc\ht6xxx_timer.h)(0x5C121D87)
+I (..\sourcecode\HT60xx_StdPeriph_Driver\inc\ht6xxx_uart&7816.h)(0x5C121D81)
+I (..\sourcecode\HT60xx_StdPeriph_Driver\inc\ht6xxx_tdes&rand.h)(0x5C121D8D)
+I (..\sourcecode\HT60xx_StdPeriph_Driver\inc\ht6xxx_aes&rand.h)(0x5C121DED)
+I (..\sourcecode\HT60xx_StdPeriph_Driver\inc\ht6xxx_dma.h)(0x5C121DDC)
+I (..\sourcecode\HT60xx_StdPeriph_Driver\inc\ht50xx_emu.h)(0x5C121D7B)
+I (..\sourcecode\HT60xx_StdPeriph_Driver\inc\ht501x_keyscan.h)(0x5C121D6D)
+I (..\sourcecode\HT60xx_StdPeriph_Driver\inc\ht6x3x_emu.h)(0x5C121D74)
+I (..\sourcecode\ht6xxx_it.h)(0x5C123192)
+F (..\sourcecode\main.c)(0x5C1231AD)(--c99 -c --cpu Cortex-M0 -D__MICROLIB --li -g -O0 --apcs=interwork --split_sections -I ..\sourcecode\CMSIS -I ..\sourcecode\CMSIS\CM0\DeviceSupport\inc -I ..\sourcecode\CMSIS\CM0\CoreSupport -I ..\sourcecode\CMSIS\CM0\DeviceSupport -I ..\sourcecode\HT60xx_StdPeriph_Driver\inc -I ..\sourcecode -I ..\sourcecode\HT60xx_StdPeriph_Driver-IH:\SmartPowerManagerSystem\spms_vcmm\project\RTE-IC:\Keil_v521a\ARM\PACK\ARM\CMSIS\5.7.0\Device\ARM\ARMCM0\Include-IC:\Keil_v521a\ARM\CMSIS\Include-D__UVISION_VERSION="521" -DARMCM0 -DHT6x2x-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (C:\Keil_v521a\ARM\ARMCC\include\stdio.h)(0x574E3E26)
+I (..\sourcecode\HT60xx_StdPeriph_Driver\ht6xxx_lib.h)(0x5C123175)
+I (..\sourcecode\CMSIS\CM0\DeviceSupport\inc\ht6xxx.h)(0x5C32C862)
+I (..\sourcecode\CMSIS\CM0\CoreSupport\core_cm0.h)(0x5C12225D)
+I (C:\Keil_v521a\ARM\ARMCC\include\stdint.h)(0x574E3E26)
+I (..\sourcecode\CMSIS\CM0\CoreSupport\cmsis_version.h)(0x5C122268)
+I (..\sourcecode\CMSIS\CM0\CoreSupport\cmsis_compiler.h)(0x5C1222DF)
+I (..\sourcecode\CMSIS\CM0\CoreSupport\cmsis_armcc.h)(0x5C122255)
+I (..\sourcecode\HT60xx_StdPeriph_Driver\inc\ht6xxx_cmu.h)(0x5C121DE7)
+I (..\sourcecode\HT60xx_StdPeriph_Driver\inc\ht6xxx_crc.h)(0x5C121DE1)
+I (..\sourcecode\HT60xx_StdPeriph_Driver\inc\ht6xxx_exti.h)(0x5C121DCF)
+I (..\sourcecode\HT60xx_StdPeriph_Driver\inc\ht6xxx_flash.h)(0x5C121DC9)
+I (..\sourcecode\HT60xx_StdPeriph_Driver\inc\ht6xxx_gpio.h)(0x5C122E4D)
+I (..\sourcecode\HT60xx_StdPeriph_Driver\inc\ht6xxx_iic.h)(0x5C121DBE)
+I (..\sourcecode\HT60xx_StdPeriph_Driver\inc\ht6xxx_lcd.h)(0x5C121DB7)
+I (..\sourcecode\HT60xx_StdPeriph_Driver\inc\ht6xxx_pmu.h)(0x5C121DB0)
+I (..\sourcecode\HT60xx_StdPeriph_Driver\inc\ht6xxx_reset.h)(0x5C121DA8)
+I (..\sourcecode\HT60xx_StdPeriph_Driver\inc\ht6xxx_rtc.h)(0x5C121DA1)
+I (..\sourcecode\HT60xx_StdPeriph_Driver\inc\ht6xxx_spi.h)(0x5C121D9B)
+I (..\sourcecode\HT60xx_StdPeriph_Driver\inc\ht6xxx_tbs.h)(0x5C121D94)
+I (..\sourcecode\HT60xx_StdPeriph_Driver\inc\ht6xxx_timer.h)(0x5C121D87)
+I (..\sourcecode\HT60xx_StdPeriph_Driver\inc\ht6xxx_uart&7816.h)(0x5C121D81)
+I (..\sourcecode\HT60xx_StdPeriph_Driver\inc\ht6xxx_tdes&rand.h)(0x5C121D8D)
+I (..\sourcecode\HT60xx_StdPeriph_Driver\inc\ht6xxx_aes&rand.h)(0x5C121DED)
+I (..\sourcecode\HT60xx_StdPeriph_Driver\inc\ht6xxx_dma.h)(0x5C121DDC)
+I (..\sourcecode\HT60xx_StdPeriph_Driver\inc\ht50xx_emu.h)(0x5C121D7B)
+I (..\sourcecode\HT60xx_StdPeriph_Driver\inc\ht501x_keyscan.h)(0x5C121D6D)
+I (..\sourcecode\HT60xx_StdPeriph_Driver\inc\ht6x3x_emu.h)(0x5C121D74)

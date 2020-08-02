@@ -1,0 +1,25 @@
+--cpu Cortex-M0
+".\objects\system_ht6xxx.o"
+".\objects\ht6xxx_aes&rand.o"
+".\objects\ht6xxx_cmu.o"
+".\objects\ht6xxx_crc.o"
+".\objects\ht6xxx_dma.o"
+".\objects\ht6xxx_exti.o"
+".\objects\ht6xxx_flash.o"
+".\objects\ht6xxx_gpio.o"
+".\objects\ht6xxx_iic.o"
+".\objects\ht6xxx_lcd.o"
+".\objects\ht6xxx_pmu.o"
+".\objects\ht6xxx_reset.o"
+".\objects\ht6xxx_rtc.o"
+".\objects\ht6xxx_spi.o"
+".\objects\ht6xxx_tbs.o"
+".\objects\ht6xxx_timer.o"
+".\objects\ht6xxx_uart&7816.o"
+".\objects\startup_ht6x2x.o"
+".\objects\ht6xxx_it.o"
+".\objects\main.o"
+--library_type=microlib --strict --scatter ".\Objects\spms_vcmm.sct"
+--diag_suppress=L6329 --summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\Listings\spms_vcmm.map" -o .\Objects\spms_vcmm.axf
